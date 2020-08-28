@@ -1,12 +1,15 @@
 # EXERCÍCIO 10
 # Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
 
-# Considere os seguinte valores -> MOEDA REAL BR SENDO COMPARADA COM AS DEMAIS MOEDAS (27/08/2020)
-# DÓLAR EUA = R$ 0.1787118
-# EURO = € 0.1511168
-# DÓLAR CANADENSE = C$ 0.2343073
-# DÓLAR DA NOVA ZELÂNDIA = NZ$ 0.2690631
-# DÓLAR AUSTRALIANO = A$ 0.2461236 
+ '''
+CONSIDERE A COTAÇÃO ABAIXO -> MOEDA REAL BR SENDO COMPARADA COM AS DEMAIS MOEDAS 
+DATA: 27/08/2020
+LINK: https://www.bcb.gov.br/conversao
+DÓLAR EUA = R$ 0.1787118
+EURO = € 0.1511168
+DÓLAR CANADENSE = C$ 0.2343073
+DÓLAR DA NOVA ZELÂNDIA = NZ$ 0.2690631
+DÓLAR AUSTRALIANO = A$ 0.2461236'''
 
 dinheiro = float(input('Quando dinheiro você tem na carteira? R$ '))
 dolareua = dinheiro * 0.1787118
