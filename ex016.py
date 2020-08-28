@@ -4,6 +4,5 @@
 from math import trunc
 
 num = float(input('Digite um valor: '))
-numint = trunc(num)
 
-print('O valor digitado foi {} e sua porção inteira é {}.'.format(num, numint))
+print('O valor digitado foi {} e sua porção inteira é {}.'.format(num, trunc(num)))
