@@ -7,4 +7,3 @@ print('Olá mundo!')
 # print('Modelo 2')
 # msg = 'Olá mundo!'
 # print(msg)
-#teste
