@@ -8,7 +8,7 @@
 nome = str(input('Digite o seu nome completo: ')).strip()
 pnome = nome.split()
 
-print('Nome completo: {}'.format(nome))
+print('Nome completo: {}'.format(nome).title())
 print('Nome nome em maiúsculo é: {}'.format(nome.upper()))
 print('Nome nome em minúsculo é: {}'.format(nome.lower()))
 print('Seu nome completo possui {} letras'.format(len(nome) - nome.count(' ')))
