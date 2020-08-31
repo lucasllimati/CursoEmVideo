@@ -10,9 +10,9 @@ nota2 = float(input('Segunda nota: '))
 media = (nota1 + nota2) / 2
 
 print('Tirando {} e {}, a média do aluno é {}.'.format(nota1, nota2, media))
-if media <= 7.0:
+if media >= 7.0:
     print('O aluno está \33[36mAPROVADO\033[m')
-elif media >= 5.0 and media >= 6.9:
+elif 5.0 <= media <= 6.9:
     print('O aluno está de \33[33mRECUPERAÇÃO\033[m.')
 else:
     print('O aluno está \33[31mREPROVADO\033[m.')
