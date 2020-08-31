@@ -1,9 +1,13 @@
 # Lista de exercício - Curso em Vídeo Python 3.
 ## By: Gustavo Guanabara
 [Site](https://www.cursoemvideo.com/)
+
 [Youtube](https://www.youtube.com/user/cursosemvideo)
+
 [Twitter](https://twitter.com/cursosemvideo)
+
 [Instagram](https://www.instagram.com/cursoemvideo/)
+
 [Facebook](https://www.facebook.com/CursosEmVideo/)
 
 
