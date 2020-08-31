@@ -46,3 +46,4 @@ else:
             print('\33[32m\tJOGADOR\33[m GANHOU!')
         else:
             print('\33[32m\tCOMPUTADOR\33[m GANHOU!')
+print('FIM')
