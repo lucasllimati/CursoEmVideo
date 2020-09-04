@@ -21,7 +21,7 @@
 
 ## Descrição das atividades
 NUMERO | DESCRIÇÃO
-:-------: | ------:
+:-------: | :-------
 1 | Crie um programa que escreva "Olá mundo!" na tela.
 2 | Faça um programa que leia o nome de uma pessoa e mostra uma mensagem de boas vinda.
 3 | Crei um programa que leia dois número e mostre a soma entre eles.
