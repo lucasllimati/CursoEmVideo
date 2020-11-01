@@ -6,12 +6,12 @@ num =  int(input("Digite um número para calcular seu Fatorial: "))
 c = num
 fat = 1
 
-# # Forma 1 - utilizando o Math
+# # Form 1 - using Math
 # from math import factorial
 # f = factorial(num)
 # print("O fatorial de {} é {}".format(num, f))
 
-# Forma 2 - utilizando o While
+# Form 2 - using While
 print('Calculando {}! = '.format(num), end='')
 while c > 0:
     print("{}".format(c), end='')
@@ -21,7 +21,7 @@ while c > 0:
 print(fat)
 print("\nO fatorial de {}! é \33[32m{}\33[m".format(num, fat))
 
-# # Forma 3 - utilizando o For
+# # Form 3 - using For
 # for i in range(num, 0):
 #     print("{}".format(c), end='')
 #     print(' x ' if c > 1 else ' = ', end='')
