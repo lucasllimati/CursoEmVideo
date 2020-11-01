@@ -32,10 +32,15 @@ As anotações da pasta foram desenvolvidas por [Leandro L. Montanari](https://g
 
 ## Criador - Gustavo Guanabara
 [Site](https://www.cursoemvideo.com/)
+
 [Youtube](https://www.youtube.com/user/cursosemvideo)
+
 [Twitter](https://twitter.com/cursosemvideo)
+
 [Instagram](https://www.instagram.com/cursoemvideo/)
+
 [Facebook](https://www.facebook.com/CursosEmVideo/)
+
 [GitHub](https://github.com/gustavoguanabara)
 
 <p align="center">Desenvolvido com por Lucas Lima</p>
