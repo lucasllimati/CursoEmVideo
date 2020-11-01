@@ -1,15 +1,4 @@
 # Lista de exercício - Curso em Vídeo Python 3.
-## By: Gustavo Guanabara
-[Site](https://www.cursoemvideo.com/)
-
-[Youtube](https://www.youtube.com/user/cursosemvideo)
-
-[Twitter](https://twitter.com/cursosemvideo)
-
-[Instagram](https://www.instagram.com/cursoemvideo/)
-
-[Facebook](https://www.facebook.com/CursosEmVideo/)
-
 
 ## Primeiros passos com a linguagem Python
 
@@ -33,8 +22,17 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 Agradeço ao Curso em Videos por esse primeiro passo na jornada como futuro desenvolvedor Python.
 
+## Criador - Gustavo Guanabara
+[Site](https://www.cursoemvideo.com/)
+[Youtube](https://www.youtube.com/user/cursosemvideo)
+[Twitter](https://twitter.com/cursosemvideo)
+[Instagram](https://www.instagram.com/cursoemvideo/)
+[Facebook](https://www.facebook.com/CursosEmVideo/)
+[GitHub](https://github.com/gustavoguanabara)
+
 <p align="center">Desenvolvido com por Lucas Lima</p>
 
+<br><br><br>
 
 ## Descrição das atividades
 NUMERO | DESCRIÇÃO

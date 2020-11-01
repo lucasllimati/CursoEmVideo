@@ -5,13 +5,13 @@ from math import sqrt, pow, hypot
 co = float(input('Comprimento do cateto oposto: '))
 ca = float(input('Comprimento do cateto adjacente: '))
 
-#Forma 1
+#1 - forma
 hi = hypot(co, ca)
 
-#Forma 2
+#2 - forma
 #hi = sqrt(pow(cao, 2) + pow(ca, 2))
 
-#Forma 3
+#3 - forma
 #hi = (co ** 2 + ca ** 2) ** (1/2)
 
 print('A hipotenusa vai medir {:.2f}.'.format(hi))
