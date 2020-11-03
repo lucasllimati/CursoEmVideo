@@ -38,6 +38,8 @@ As anotações da pasta foram desenvolvidas por [Leandro L. Montanari](https://g
 <a href="https://www.facebook.com/CursosEmVideo/">Facebook</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/gustavoguanabara">GitHub</a>
 
+<br><br><br>
+
 <p align="center">Desenvolvido com por Lucas Lima</p>
 
 <br><br><br><br><br>
