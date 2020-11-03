@@ -36,19 +36,7 @@ As anotações da pasta foram desenvolvidas por [Leandro L. Montanari](https://g
 <a href="https://twitter.com/cursosemvideo">Twitter</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/cursoemvideo/">Instagram</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/CursosEmVideo/">Facebook</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/gustavoguanabara">GitHub</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-[Site](https://www.cursoemvideo.com/)
-
-[Youtube](https://www.youtube.com/user/cursosemvideo)
-
-[Twitter](https://twitter.com/cursosemvideo)
-
-[Instagram](https://www.instagram.com/cursoemvideo/)
-
-[Facebook](https://www.facebook.com/CursosEmVideo/)
-
-[GitHub](https://github.com/gustavoguanabara)
+<a href="https://github.com/gustavoguanabara">GitHub</a>
 
 <p align="center">Desenvolvido com por Lucas Lima</p>
 
