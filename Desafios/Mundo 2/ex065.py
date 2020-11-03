@@ -9,7 +9,7 @@
 # menor ~> lower value / min
 # media ~> average / avg
 
-continuar = 'S'
+resp = 'S'
 cont = 0
 soma = 0
 maior = 0
@@ -17,7 +17,7 @@ menor = 0
 media = 0
 # cont = soma = maior = menor = media = 0
 
-while continuar in 'Ss':
+while resp in 'Ss':
     num = int(input('Digite um número: '))   
     soma += num
     cont += 1
@@ -29,7 +29,7 @@ while continuar in 'Ss':
             maior = num
         if menor > num:
             menor = num
-    continuar = input('Quer continuar? [S/N]   ').upper().split()[0]
+    resp = input('Quer continuar? [S/N]   ').upper().split()[0]
 media = soma / cont
 print('Você digitou {} número e a média foi {}'.format(cont, media))
 print('O maior valor foi {} e o menor foi {}'.format(maior, menor))
