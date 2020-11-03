@@ -31,6 +31,13 @@ Agradeço ao Curso em Videos por esse primeiro passo na jornada como futuro dese
 As anotações da pasta foram desenvolvidas por [Leandro L. Montanari](https://github.com/LeandroMontanari).
 
 ## Criador - Gustavo Guanabara
+<a href="https://www.cursoemvideo.com">Site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/user/cursosemvideo">Youtube</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/cursosemvideo">Twitter</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/cursoemvideo/">Instagram</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/CursosEmVideo/">Facebook</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/gustavoguanabara">GitHub</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
 [Site](https://www.cursoemvideo.com/)
 
 [Youtube](https://www.youtube.com/user/cursosemvideo)
