@@ -40,11 +40,10 @@ As anotações da pasta foram desenvolvidas por [Leandro L. Montanari](https://g
     <a href="https://github.com/gustavoguanabara">GitHub</a>
 </p>
 
-<br><br>
-
 <p align="center">Desenvolvido com por Lucas Lima</p>
 
-<br><br><br><br><br>
+## 
+<br><br><br>
 
 ## Descrição das atividades
 NUMERO | DESCRIÇÃO
