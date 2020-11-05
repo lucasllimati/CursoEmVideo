@@ -43,7 +43,6 @@ As anotações da pasta foram desenvolvidas por [Leandro L. Montanari](https://g
 ## 
 <p align="center">Desenvolvido com por Lucas Lima</p>
 
-## 
 
 ## 📝 Descrição das atividades
 NUMERO | DESCRIÇÃO
