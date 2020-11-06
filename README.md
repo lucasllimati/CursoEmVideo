@@ -123,10 +123,33 @@ NUMERO | DESCRIÇÃO
 74 | Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
 75 | Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre: A) Quantas vezes apareceu o valor 9. B) Em que posição foi digitado o primeiro valor 3. C) Quais foram os números pares.
 76 | Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
-77 | 
-78 | 
-79 | 
-80 | 
+77 | Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
+78 | Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
+79 | Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
+80 | Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
+81 | Crie um programa que vai ler vários números e colocar em uma lista. Depois disso mostre: A) Quantos números foram digitados.  B) A lista de valores, ordenada de forma decrescente.  C) Se o valor 5 foi digitado e está ou não na lista.
+82 | 
+83 | 
+84 | 
+85 | 
+86 | 
+87 | 
+88 | 
+89 | 
+90 | 
+91 | 
+92 | 
+93 | 
+94 | 
+95 | 
+96 | 
+97 | 
+98 | 
+99 | 
+100 | 
+
+
+
 
 
 

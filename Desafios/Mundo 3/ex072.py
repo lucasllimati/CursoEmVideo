@@ -16,7 +16,7 @@ while True:
         print(f'\nVocê digitou o número \33[32m{numero[num]}\33[m')
     resp = ' '
     while resp not in 'SN':
-        resp = str(input('\nQuer continuar? S/N ')).upper().strip()[0]
+        resp = str(input('\nQuer continuar? [S/N] ')).upper().strip()[0]
     if resp == 'N':
         break
 print('\n\n{:=^30}'.format('PROGRAMA FINALIZADO...'))
