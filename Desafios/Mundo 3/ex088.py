@@ -1,7 +1,6 @@
 # 88
 # Faça um programa que ajude um jogador da MEGA SENA a criar palpites.O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
 
-# Description
 from random import randint
 from time import sleep
 
@@ -36,4 +35,3 @@ for i, l in enumerate(jogos):
     sleep(1)
 print()
 print('-=' * 5, f' < BOA SORTE! > ', '-=' * 5)
-
