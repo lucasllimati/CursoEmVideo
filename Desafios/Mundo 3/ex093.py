@@ -3,17 +3,21 @@
 
 jogador = dict()
 partidas = list()
+
 jogador['nome'] = str(input('Nome do jogador: '))
 totaljogos = int(input(f'Quantas partidas \33[36m{jogador["nome"]}\33[m jogou? '))
 for c in range(0, totaljogos):
     partidas.append(int(input(f'   Quantos gols na partida {c}: ')))
 jogador['gols'] = partidas[:]
 jogador['total'] = sum(partidas)
+
 print('-=' * 30)
 print(jogador)
+
 print('-=' * 30)
 for k, v in jogador.items():
     print(f'O campos {k} tem o valor \33[36m{v}\33[m.')
+    
 print('-=' * 30)
 print(f'O jogador {jogador["nome"]} jogou {len(jogador["gols"])} partidas.')
 for i, v in enumerate(jogador["gols"]):
