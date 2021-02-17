@@ -4,9 +4,9 @@
 from random import randint
 from time import sleep
 
+
 def linha():
     print('-=' * 20)
-    print()
 
 def sorteia(lista):
     print('Sorteando 5 valores da lista: ', end='')
@@ -22,15 +22,15 @@ def somaPar(lista):
     for valor in lista:
         if valor % 2 == 0:
             soma += valor
-    print(f'Somando os valor pares de {lista}, temos {soma}.')
+    print(f'Somando os valor pares de \33[36m{lista}\33[m, temos \33[36m{soma}\33[m.')
 
 #Extra
 def somaImpar(lista):
     soma = 0
     for valor in lista:
-        if valor % 1 == 0:
+        if valor % 2 == 1:
             soma += valor
-    print(f'Somando os valor impares de {lista}, temos {soma}.')
+    print(f'Somando os valor impares de \33[36m{lista}\33[m, temos \33[36m{soma}\33[m.')
 
 numeros = list()
 sorteia(numeros)
