@@ -10,7 +10,7 @@
 
 ## 🖊 Anotações - Notion
 
-Essas anotações sobre a teoria do curso [Link](https://www.notion.so/Curso-em-Video-Python-Teoria-f1145f506d514d7ea9d040e00f287f0d)
+Essas anotações Notion sobre a teoria do curso [Link](https://www.notion.so/Curso-em-Video-Python-Teoria-f1145f506d514d7ea9d040e00f287f0d)
 
 ## 📚 Tecnologias
 
@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👏 Agradecimento
 
@@ -41,7 +41,7 @@ As anotações da pasta foram desenvolvidas por [Leandro L. Montanari](https://g
 </p>
 
 ## 
-<p align="center">Desenvolvido com por Lucas Lima</p>
+<p align="center">Developed with by Lucas Lima</p>
 
 
 ## 📝 Descrição das atividades
@@ -148,7 +148,7 @@ NUMERO | DESCRIÇÃO
 99 | Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 100 | Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
 101 | Crie um programa que tenha uma função chamada voto() que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL e OBRIGATÓRIO nas eleições.
-102 | 
+102 | Crie um programa que tenha uma função fatorial() que receba dois parâmetros: o primeiro que indique o número a calcular e outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
 103 | 
 104 | 
 105 | 

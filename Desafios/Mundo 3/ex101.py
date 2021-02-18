@@ -19,4 +19,3 @@ def voto(anonasc):
 linha()
 ano = int(input('Em que ano você nasceu? '))
 print(voto(ano))
-
