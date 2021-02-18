@@ -7,6 +7,12 @@ def linha():
     print('-' * 35)
 
 def fatorial(n, show = False):
+    """
+    -> Calcula o Fatorial de um numero.
+    :parametro n: O número a ser calculado.
+    :parametro show: (Opcional) Mostrar ou não o cálculo.
+    :return: O valor do Fatorial de um numero n.
+    """
     fatorial = 1
     for c in range(n, 0, -1):
         if show:
@@ -19,6 +25,8 @@ def fatorial(n, show = False):
     return f'\33[36m{fatorial}\33[m'
 
 
-# Programa principal
+# # Programa principal
 linha()
 print(fatorial(5, show=True))
+
+help(fatorial)
