@@ -10,7 +10,7 @@ def fatorial(n, show = False):
     """
     -> Calcula o Fatorial de um numero.
     :parametro n: O número a ser calculado.
-    :parametro show: (Opcional) Mostrar ou não o cálculo.
+    :parametro show: (Opcional) Mostrar ou nao o calculo.
     :return: O valor do Fatorial de um numero n.
     """
     fatorial = 1
@@ -24,9 +24,7 @@ def fatorial(n, show = False):
         fatorial *= c
     return f'\33[36m{fatorial}\33[m'
 
-
-# # Programa principal
+# Programa principal
 linha()
 print(fatorial(5, show=True))
-
 help(fatorial)
