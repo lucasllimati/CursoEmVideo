@@ -1,4 +1,7 @@
 def leiaDinheiro(msg):
+    '''
+    -> Funcao: validacao da mensagem/input
+    '''
     valido = False
     while not valido:
         entrada = str(input(msg)).replace(',', '.').strip()
