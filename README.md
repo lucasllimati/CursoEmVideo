@@ -24,7 +24,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👏 Agradecimento
 
-Agradeço ao Curso em Videos por esse primeiro passo na jornada como futuro desenvolvedor Python.
+Agradeço ao Curso em Video por esse primeiro passo na jornada como futuro desenvolvedor Python.
 
 ## 📄 Anotações 
 
