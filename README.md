@@ -8,6 +8,11 @@
 
 **Mundo 3** - O terceiro mundo apresenta as estruturas de dados, muito importantes para qualquer linguagem, o professor explica sobre as estruturas de tuplas, listas, dicionários, além disso, ele também ensina funções, módulos e pacotes. Por mim, o professor ainda aborda tratamentos de erros. Para assistir o Terceiro Mundo, é recomendado que tenha passado pelo Primeiro Mundo e pelo Segundo Mundo.   [Link](https://www.cursoemvideo.com/course/python-3-mundo-3/)
 
+## 📇 Contato
+ [![Linkedin](https://img.shields.io/badge/Linkedin-lucasllimati-blue.svg)](https://www.linkedin.com/in/lucasllimati/)
+ [![Instagram](https://img.shields.io/badge/Instagram-olukaslima_-ff69b4.svg)](https://www.instagram.com/olukaslima_)
+ [![Linktree](https://img.shields.io/badge/Linktree-lucasllimati-brightgreen.svg)](https://linktr.ee/lucasllimati)
+
 ## 🖊 Anotações - Notion
 
 Essas anotações Notion sobre a teoria do curso [Link](https://www.notion.so/Curso-em-Video-Python-Teoria-f1145f506d514d7ea9d040e00f287f0d)
